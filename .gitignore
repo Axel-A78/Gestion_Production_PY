@@ -4,7 +4,9 @@ __pycache__/
 
 # Exclude environment folders
 env/
+.env
 .venv/
+venv/
 
 # Exclude IDE or editor configurations
 .vscode/
@@ -17,3 +19,5 @@ env/
 # Exclude SQLite database and Flask instance folder
 instance/
 *.sqlite3
+
+.gitattributes
