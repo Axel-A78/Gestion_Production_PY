@@ -1,0 +1,19 @@
+# Exclude compiled Python files
+*.pyc
+__pycache__/
+
+# Exclude environment folders
+env/
+.venv/
+
+# Exclude IDE or editor configurations
+.vscode/
+.idea/
+
+# Exclude logs and temporary files
+*.log
+*.tmp
+
+# Exclude SQLite database and Flask instance folder
+instance/
+*.sqlite3

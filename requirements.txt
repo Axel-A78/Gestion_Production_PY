@@ -1,0 +1,6 @@
+Flask
+Flask-login
+Flask-sqlalchemy
+Python-dotenv
+Jinja2
+Werkzeug
